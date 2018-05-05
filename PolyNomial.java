@@ -1,8 +1,9 @@
-/*#####################################################################
-Ali Hedayatnia , University of Tehran
-
-x(t) = Σ I(i)*t + I(e)
-
+/*#####################################################################|
+Ali Hedayatnia , University of Tehran								   |
+Last modified : 2018/May/06											   |
+																	   |
+x(t) = Σ I(i)*t + I(e)												   |
+																	   |
 #######################################################################*/
 import java.util.ArrayList;
 import java.lang.ArithmeticException;
